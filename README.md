@@ -51,10 +51,14 @@ A committee of three models, each with variations in dropout, regularization, an
 This project underscores the effectiveness of transfer learning in facial recognition and the benefits of PCA for efficiency. It also demonstrates the enhanced predictive power achievable through ensemble methods.  
 
 ## References
-[1] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 147
-[2] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 240
-[3] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 321
-[4] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 269
+[1] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 147  
+  
+[2] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 240  
+  
+[3] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 321  
+  
+[4] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 269  
+  
 [5] I. Goodfellow, et al. Deep Learning. Cambridge: MIT Press, 2016, pp 250
 
 
